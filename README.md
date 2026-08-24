@@ -1,4 +1,4 @@
-# Incident Vault
+# Incident Vault - https://incident-vault-zlkb6bke6zbtmen4ybokxm.streamlit.app/
 
 A document store, two-step approval tracker, and Groq-powered incident
 search, built with Streamlit.
